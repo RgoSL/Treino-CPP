@@ -25,3 +25,4 @@ void loop(){ //Aqui a mágica acontece, dentro do "loop", os comandos ocorrem re
   Serial.println("LED está apagado.");
   delay(1000); //Entre () está o tempo de ativação das execuções, medidos em milissegundos (1 segundo no exemplo).
 }
+
